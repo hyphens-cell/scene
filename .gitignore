@@ -1,0 +1,33 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+artifacts/
+
+# Local settings, user presentations, credentials and editor files
+.env
+.env.*
+!.env.example
+.codex/
+.agents/
+.idea/
+.vscode/
+*.log
+*.pdfpresenter
+*.pdfpresenter.bak
+*.pfx
+*.p12
+*.key
+*.pem
+Thumbs.db
+Desktop.ini
+
+# Historical local work records
+/ACCEPTANCE_V2.md
+/FEATURE_MEDIA_PLAN.md
+/PLAN_V2.md
+/VERIFICATION.md

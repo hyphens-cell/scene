@@ -1,0 +1,8 @@
+Use case: logo-brand
+Asset type: Windows application icon for a desktop stage presentation and media application named «Сцена» (Scene).
+Primary request: A completely new polished icon representing one app that presents slides, photographs and videos on a stage display.
+Subject: One bold geometric display panel with a clear luminous play triangle, backed by two subtly offset media cards; the rear card has a very simple mountain-and-sun photographic glyph. Readable, cohesive silhouette, not a collage.
+Style: Premium restrained 3D app icon, dark indigo rounded-square tile, purple and cyan edge light, crisp bevels and subtle depth, front-on view. Closely composed, high contrast, simple enough to read at 32 pixels.
+Composition: Centered square icon with safe margin, a single complete tile. Transparent pixels outside the rounded tile, no drop shadow outside the tile, no surrounding scenery.
+Text: No text, no letters, no PDF label, no watermark.
+Avoid: Tiny details, excessive neon haze, multiple competing symbols, photorealistic devices, mockup backgrounds.
